@@ -1,14 +1,31 @@
 <resources>
-    <string name="app_name">GestionBudget</string>
-    <string name="projectTitle">GestionBudget</string>
-    <string name="editTextTotalBudget">Total Budget</string>
-    <string name="editTextFood">Food</string>
-    <string name="editTextGoOut">Go Out</string>
-    <string name="editTextHouseHold">Household</string>
-    <string name="editTextClothes">Clothes</string>
-    <string name="editTextTransport">Transport</string>
-    <string name="editTextRent">Rent</string>
-    <string name="editTextSalary">Salary</string>
-    <string name="buttonConfirmed">Confirmed</string>
-    <string name="buttonDialogue">Yes</string>
+    <string name="app_name">
+        GestionBudget</string>
+    <string name="projectTitle">
+        GestionBudget</string>
+    <string name="editTextTotalBudget">
+        Total Budget</string>
+    <string name="editTextFood">
+        Food</string>
+    <string name="editTextGoOut">
+        Go Out</string>
+    <string name="editTextHouseHold">
+        Household</string>
+    <string name="editTextClothes">
+        Clothes</string>
+    <string name="editTextTransport">
+        Transport</string>
+    <string name="editTextRent">
+        Rent</string>
+    <string name="editTextSalary">
+        Salary</string>
+    <string name="buttonConfirmed">
+        Confirmed</string>
+    <string name="buttonDialogue">
+        Yes</string>
+    <string name="titleEmptyCase">
+        Empty case</string>
+    <string name="messageEmptyCase">
+        You must fill all the case.
+    </string>
 </resources>
